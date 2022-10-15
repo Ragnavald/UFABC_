@@ -1,0 +1,8 @@
+text = input("Digite uma string:")
+inteiro = input("Digite um int:")
+pontoFlutuant = input("Digite um float:")
+boleano = input("Digite um boolean:")
+print("Digitou uma string:" + text)
+print("Digitou um int:" + inteiro)
+print("Digitou um float:" + pontoFlutuant)
+print("Digitou um boolean:" + boleano)
